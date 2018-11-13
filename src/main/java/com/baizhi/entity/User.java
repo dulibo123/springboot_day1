@@ -1,7 +1,7 @@
 package com.baizhi.entity;
 
 public class User {
-    private String haha;
+    private String www;
 	private Integer id;
 	private String username;
 	private String realname;
